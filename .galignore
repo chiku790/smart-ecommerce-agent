@@ -1,0 +1,7 @@
+.venv*
+.venv_record/
+recordings/
+*.wav
+*.mp4
+*.webm
+*.gif
